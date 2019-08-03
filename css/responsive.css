@@ -1,0 +1,15 @@
+/* Mobile */
+@media all and (max-width: 480px) {
+    
+    .chat_users_list {
+        display:none; 
+    }
+    
+    .chat_groups_list {
+        display:none; 
+    }
+    
+    .sk_chat_application_wr {
+        padding-left: 0;
+    }
+}
